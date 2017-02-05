@@ -1,6 +1,6 @@
 {
   "name": "pull-emoji",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "parse strings into emoji through a pull-stream interface",
   "main": "index.js",
   "scripts": {
