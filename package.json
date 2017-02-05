@@ -1,0 +1,19 @@
+{
+  "name": "pull-emoji",
+  "version": "1.0.0",
+  "description": "parse strings into emoji through a pull-stream interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [],
+  "author": "Jake Burden",
+  "license": "MIT",
+  "dependencies": {
+    "emojione": "^2.2.7"
+  },
+  "devDependencies": {
+    "pull-stream": "^3.5.0",
+    "tape": "^4.6.3"
+  }
+}
