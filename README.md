@@ -1,5 +1,8 @@
 # pull-emoji
 
+[![build status][travis-image]][travis-url]
+[![js-standard-style][standard-image]][standard-url]
+
 > parse strings into emoji through a pull-stream interface
 
 
@@ -59,3 +62,7 @@ pull-emoji was inspired by emojione and pull-stream
 
 MIT
 
+[travis-image]: https://img.shields.io/travis/jekrb/pull-emoji/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/jekrb/pull-emoji
+[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
+[standard-url]: https://github.com/feross/standard
