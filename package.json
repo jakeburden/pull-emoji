@@ -15,5 +15,9 @@
   "devDependencies": {
     "pull-stream": "^3.5.0",
     "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssb://%+Xwg5HVCNaAilfYZ2Pkri5vnde0VIlF4lvaZRUUM/eU=.sha256"
   }
 }
