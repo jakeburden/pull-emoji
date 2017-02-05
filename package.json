@@ -1,12 +1,17 @@
 {
   "name": "pull-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse strings into emoji through a pull-stream interface",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
   },
-  "keywords": [],
+  "keywords": [
+    "emoji",
+    "pull-stream",
+    "pull-emoji",
+    "ssb://%+Xwg5HVCNaAilfYZ2Pkri5vnde0VIlF4lvaZRUUM/eU=.sha256"
+  ],
   "author": "Jake Burden",
   "license": "MIT",
   "dependencies": {
@@ -18,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssb://%+Xwg5HVCNaAilfYZ2Pkri5vnde0VIlF4lvaZRUUM/eU=.sha256"
+    "url": "git://github.com/jekrb/pull-emoji.git"
   }
 }
