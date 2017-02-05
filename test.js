@@ -19,4 +19,3 @@ test('simple emoji test', function (t) {
     })
   )
 })
-

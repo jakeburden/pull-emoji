@@ -13,4 +13,3 @@ function pullEmoji () {
 }
 
 module.exports = pullEmoji
-
